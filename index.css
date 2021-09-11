@@ -1,0 +1,183 @@
+/* the universal selector (*) at the beginning of your CSS file
+to select all elements and give them 0 values for margin and padding, */
+
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.elfsight-app-74ce3c39-8b7c-475a-b368-5415f4d95f2e
+{
+  padding: 0px;
+
+height: 300px;
+margin: 27px -49px 0px -50px;
+
+
+}
+
+.button {
+  background-color: #ffc002;
+ 
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+
+.dropbtn {
+    background-color: #ffc002;
+  border: none;
+  border-radius: 30px;
+  
+  color: black;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin: 2px 3px;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 20%;
+}
+
+
+.nav-bar{
+    background: #001F60;
+    color: #fff;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.nav-bar img{
+    height: 283px;
+    float: left;
+    margin-left: -107px;
+    margin-top: -16px;
+
+}
+
+.body{
+  width: 96%;
+  height: 493px; 
+     float: none;
+    text-align: left;
+    margin: 48% 0% 2% 1%;
+    padding: 16px;
+    background-color: #fff;
+    box-shadow: -6px 10px 20px #bbb;
+
+}  
+
+.card-box{
+  float: left;
+  width: 21%;
+  margin-top: 120px;
+  background-color: #ffc002;
+  color: #001F60; 
+  
+  
+margin-left: 2%;
+  margin-right: 2%;
+  padding: 80px;
+  box-shadow: 10px 10px 20px #bbb;
+  /* color: #fff;  */
+} 
+
+.home-card{
+ 
+   float: left;
+    width: 40%;
+    margin-top: -672px;
+     /* background-color: rgb(235, 23, 23);  */
+   color: #001F60;
+    margin-left: 53%;
+    margin-right: 10%;
+    padding: 46px;
+    height: 578px;
+   /* box-shadow: 10px 10px 20px #bbb;   */
+   color: #fff; 
+
+ 
+}
+
+.doc-img{
+   width: 456px;
+  margin:101px 204px;
+}
+/* contact card is home card and vice versa */
+
+.contact-card{ 
+  float: right;
+  width: 33%;
+  margin-top: 26px;
+  background-color: #ffc002b9;
+  color: #001F60;
+  margin-left: 57%;
+  margin-right: 60%;
+  padding: 46px;
+  height: 162px;
+  box-shadow: 10px 10px 20px #bbb;
+   /* color: #fff;  */
+} 
+
+.body img{
+width:50% ;
+display: inline;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
+
+
+.menu-right{
+    text-align: right;
+}
+
+ul li{
+    display: inline-block;
+    margin: 20px;
+    
+    
+}
+
+.footer_text{
+  background-color: #ffffff;
+  text-align: center;
+  color: black;
+  padding: 47px;
+  height: 114px;
+  margin-top: 13px;
+}
+
+#insta{
+  width: 63px;
+  padding: 8px;
+}
+
+#tf{
+  width: 82px;
+  margin-top: 20px;
+}

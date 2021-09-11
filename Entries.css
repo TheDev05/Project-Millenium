@@ -1,0 +1,143 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  list-style-type:none;
+  text-decoration:none;
+
+}
+
+/* side-bar css*/
+
+.material-icons{
+    padding: 9px 69px;
+}
+section#sidebar {
+    width: 20%;
+    
+   
+    background-color:#001F60 ;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: #fff;
+    height: 100%;
+}
+
+.sidebar-brand 
+{
+    padding: 50px 40px;
+}
+
+.sidebar-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 9px 84px;
+}
+
+.clear{
+    clear: both;
+}
+
+.sidebar-menu li:hover{
+background-color: rgba(127, 255, 170, 0.788);
+}
+
+header.main-header{
+    position: fixed;
+    background-color: #fff;
+    box-shadow: 10px 10px 20px #bbb;
+    width: 100%;
+}
+
+.header-left{
+    float:left;
+    width: 40%;
+    padding: 20px;
+}
+
+input.search-bar {
+    border-radius: 20px;
+    outline: none;
+    width: 80%;
+    padding: 5px 10px;
+    border:2px solid  #bbb;
+}
+
+/* main-content */
+section#main-content {
+    width: 80%;
+    float: right;
+    
+}
+
+.card-box{
+    float: left;
+    width: 21%;
+    margin-top: 120px;
+    /* background: rgb(18,150,236);
+color: #fff; */
+
+background-color: #ffc002b9;
+    color: #001F60;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 10px 10px 20px #bbb;
+    
+}
+
+.pro-table
+{
+    width: 65%;
+    float: left;
+    text-align: left;
+    margin: 4% 2% 0% 2%;
+    padding: 15px; 
+    background-color: #fff;
+    box-shadow: 10px 10px 20px #bbb;
+}
+
+.cus-table{
+    float: right;
+    width: 25%;
+    text-align: left;
+    margin: 4% 2% 0% 2%;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: -1px 10px 20px #bbb;
+}
+
+table td{
+    padding: 20px 0px 0px 0px;
+}
+
+span.a{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 8px;
+}
+span.p{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(10, 185, 10);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 8px;
+}
+span.h{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(197, 197, 21);
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 8px;
+}
+
+
+

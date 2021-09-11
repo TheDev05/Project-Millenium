@@ -1,0 +1,37 @@
+*
+
+{
+    margin: 0;
+    padding: 0; 
+}
+
+/* .contact-info{
+    background-color: rgb(134, 0, 0);
+} */
+
+.contact-card-box{
+    float: left;
+  width: 87%;
+  height: 50%;
+  margin-top: 24px;
+ background-color: #fff; 
+  color: #001F60; 
+  margin-left: 1%;
+  margin-right: 2%;
+  padding: 84px;
+  box-shadow: 10px 10px 20px #bbb;
+}
+
+.contact-pic{
+    width:454px;
+    margin: 0px -84px 5px 14px;
+    float: right;
+    margin-top: -240;
+
+}
+
+.contact-table{
+   padding: 4%;
+   color:#001F60;
+}
+
